@@ -1,6 +1,6 @@
 Timestamp,Address,ZIP,FullName,FooDuration,BarDuration,TotalDuration,Notes
 2011-04-01 14:00 -04:00,"123 4th St, Anywhere, AA",94121,MONKEY ALBERTO,5012.123,5553.123,10565.246,I am the very model of a modern major general
-2014-03-12 03:00 -04:00,"Somewhere Else, In Another Time, BB",00001,SUPERMAN ��BERTAN,401012.123,5553.123,406565.24600000004,This is some Unicode right here. �� ��! ��
+2014-03-12 03:00 -04:00,"Somewhere Else, In Another Time, BB",00001,SUPERMAN ��BERTAN,401012.123,5553.123,406565.24600000004,This is some Unicode right h��xxx �� ��! ��
 2016-02-29 15:11 -05:00,111 Ste. #123123123,01101,R��SUM�� RON,113012.123,5553.123,118565.24600000001,���������
 2011-01-01 03:00 -05:00,"This Is Not An Address, BusyTown, BT",94121,MARY 1,5012.123,0,5012.123,I like Emoji! ������
 2017-01-01 02:59 -05:00,"123 Gangnam Style Lives Here, Gangnam Town",31403,ANTICIPATION OF UNICODE FAILURE,5012.123,5553.123,10565.246,I like Math Symbols! ����

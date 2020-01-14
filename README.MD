@@ -18,5 +18,5 @@ sake of time I chose it because it is what I use the most right now.
 
 ```sh
 npm i
-./script.js < sample.csv > output.csv
+./normalizer.js < sample.csv > output.csv
 ```

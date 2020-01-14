@@ -1,0 +1,18 @@
+{
+  "name": "truss_assignment",
+  "version": "1.0.0",
+  "description": "Coding Challenge for Truss",
+  "main": "normalizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeke Swepson",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "csv-write-stream": "^2.0.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "utf8": "^3.0.0"
+  }
+}
